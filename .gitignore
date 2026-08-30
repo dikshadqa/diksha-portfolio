@@ -1,0 +1,8 @@
+.vscode/
+resume-temp/
+resume-temp.zip
+resume-xml.txt
+resume-extract.txt
+*_backup.docx
+.DS_Store
+Thumbs.db
